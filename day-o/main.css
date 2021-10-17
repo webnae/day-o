@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: darkseagreen;
+  color: #587a05;
+  margin: 175px 100px;
+  font-family: "Optima";
+  font-size: 1.2rem;
+}
+
+.container {
+  display: flex;
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+.box-L {
+  width: 700px;
+}
+
+.box-R {
+  width: 35%;
+  text-align: right;
+}
